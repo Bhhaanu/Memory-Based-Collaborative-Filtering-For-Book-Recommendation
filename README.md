@@ -1,1 +1,1 @@
-# Memory-Based-Collaborative-Filtering-For-Book-Recommendation
+# MemoryBasedCollaborativeFiltering-For-BookRecommendationSystem
